@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dragongrave.github.io/"/>
-  <updated>2019-12-13T07:42:33.113Z</updated>
+  <updated>2019-12-13T09:30:45.257Z</updated>
   <id>https://dragongrave.github.io/</id>
   
   <author>
@@ -15,61 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>java知识点</title>
-    <link href="https://dragongrave.github.io/2019/12/13/java/"/>
-    <id>https://dragongrave.github.io/2019/12/13/java/</id>
-    <published>2019-12-13T07:36:21.000Z</published>
-    <updated>2019-12-13T07:42:33.113Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>good good study day day up</p></blockquote><h2 id="第一-好好学习"><a href="#第一-好好学习" class="headerlink" title="第一 好好学习"></a>第一 好好学习</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Demo</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">mian</span><span class="params">(String args[])</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">"haode"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-    
-    <summary type="html">
-    
-      学习java的一些总结
-    
-    </summary>
-    
-    
-    
-      <category term="java" scheme="https://dragongrave.github.io/tags/java/"/>
-    
-      <category term="总结" scheme="https://dragongrave.github.io/tags/%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>wudi</title>
-    <link href="https://dragongrave.github.io/2019/12/13/wudi/"/>
-    <id>https://dragongrave.github.io/2019/12/13/wudi/</id>
-    <published>2019-12-13T05:03:42.000Z</published>
-    <updated>2019-12-13T06:24:18.810Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试一下 这个效果怎么样啊</p><h1 id="好像还行吧"><a href="#好像还行吧" class="headerlink" title="好像还行吧"></a>好像还行吧</h1><p>！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;测试一下 这个效果怎么样啊&lt;/p&gt;
-&lt;h1 id=&quot;好像还行吧&quot;&gt;&lt;a href=&quot;#好像还行吧&quot; class=&quot;headerlink&quot; title=&quot;好像还行吧&quot;&gt;&lt;/a&gt;好像还行吧&lt;/h1&gt;&lt;p&gt;！&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="sd" scheme="https://dragongrave.github.io/categories/sd/"/>
-    
-      <category term="fds" scheme="https://dragongrave.github.io/categories/sd/fds/"/>
-    
-    
-      <category term="zhuti" scheme="https://dragongrave.github.io/tags/zhuti/"/>
-    
-      <category term="haa" scheme="https://dragongrave.github.io/tags/haa/"/>
-    
-  </entry>
   
   <entry>
     <title>网站正式开放</title>
