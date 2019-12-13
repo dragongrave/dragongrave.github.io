@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dragongrave.github.io/"/>
-  <updated>2019-12-13T05:13:19.795Z</updated>
+  <updated>2019-12-13T07:42:33.113Z</updated>
   <id>https://dragongrave.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java知识点</title>
+    <link href="https://dragongrave.github.io/2019/12/13/java/"/>
+    <id>https://dragongrave.github.io/2019/12/13/java/</id>
+    <published>2019-12-13T07:36:21.000Z</published>
+    <updated>2019-12-13T07:42:33.113Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>good good study day day up</p></blockquote><h2 id="第一-好好学习"><a href="#第一-好好学习" class="headerlink" title="第一 好好学习"></a>第一 好好学习</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Demo</span></span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">mian</span><span class="params">(String args[])</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">"haode"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      学习java的一些总结
+    
+    </summary>
+    
+    
+    
+      <category term="java" scheme="https://dragongrave.github.io/tags/java/"/>
+    
+      <category term="总结" scheme="https://dragongrave.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
   
   <entry>
     <title>demo1</title>
