@@ -40,30 +40,6 @@
   </entry>
   
   <entry>
-    <title>demo1</title>
-    <link href="https://dragongrave.github.io/2019/12/13/demo1/"/>
-    <id>https://dragongrave.github.io/2019/12/13/demo1/</id>
-    <published>2019-12-13T05:03:42.000Z</published>
-    <updated>2019-12-13T05:13:19.795Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试一下 这个效果怎么样啊</p><h1 id="好像还行吧"><a href="#好像还行吧" class="headerlink" title="好像还行吧"></a>好像还行吧</h1><p>！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;测试一下 这个效果怎么样啊&lt;/p&gt;
-&lt;h1 id=&quot;好像还行吧&quot;&gt;&lt;a href=&quot;#好像还行吧&quot; class=&quot;headerlink&quot; title=&quot;好像还行吧&quot;&gt;&lt;/a&gt;好像还行吧&lt;/h1&gt;&lt;p&gt;！&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>wudi</title>
     <link href="https://dragongrave.github.io/2019/12/13/wudi/"/>
     <id>https://dragongrave.github.io/2019/12/13/wudi/</id>
@@ -92,6 +68,29 @@
       <category term="zhuti" scheme="https://dragongrave.github.io/tags/zhuti/"/>
     
       <category term="haa" scheme="https://dragongrave.github.io/tags/haa/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站正式开放</title>
+    <link href="https://dragongrave.github.io/2019/12/13/%E5%BC%80%E5%A7%8B/"/>
+    <id>https://dragongrave.github.io/2019/12/13/%E5%BC%80%E5%A7%8B/</id>
+    <published>2019-12-13T05:03:42.000Z</published>
+    <updated>2019-12-13T09:30:45.257Z</updated>
+    
+    <content type="html"><![CDATA[<p>2019年12月13日，博客正式开放。尽管还有些许的寒酸，但是我相信未来会越来越好。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2019年12月13日，博客正式开放。尽管还有些许的寒酸，但是我相信未来会越来越好。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
     
   </entry>
   
